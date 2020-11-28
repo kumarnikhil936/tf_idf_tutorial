@@ -1,0 +1,10 @@
+65
+the:23
+am:5
+baby:3
+boy:5
+a:17
+girl:1
+said:5
+phone:2
+moon:3
